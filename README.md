@@ -9,4 +9,4 @@ Hi, I’m Cameron. He/Him. This is my notes for Code Fellows coding class. Here 
 * [Reading Notes for 102](https://codrcam.github.io/reading-note/reading102)
 * [Reading Notes for 201](https://codrcam.github.io/reading-note/reading201)
 
-<center>[My GitHub Profile](https://github.com/CodrCam)</center>
+[My GitHub Profile](https://github.com/CodrCam)
