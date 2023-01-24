@@ -2,13 +2,13 @@
 
 ## Day 1
 
-* [Markdown](/Reading102/markdown.md)
-* [Computer Setup](/Reading102/setup.md)
+* [Markdown](https://codrcam.github.io/Reading102/webpage)
+* [Computer Setup](https://codrcam.github.io/Reading102/setup)
 
 ## Day 2
 
-* [GitHub](/Reading102/github.md)
-* [Structure of web pages with HTML](/Reading102/webpage.md)
+* [GitHub](https://codrcam.github.io/Reading102/github)
+* [Structure of web pages with HTML](https://codrcam.github.io/Reading102/webpage)
 
 ## Day 3
 
