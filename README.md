@@ -6,7 +6,7 @@ Hi, I’m Cameron. He/Him. This is my notes for Code Fellows coding class. Here 
 
 ### Table of Contents
 
-* [Reading Notes for 102](https://codrcam.github.io/reading-note/reading102)
-* [Reading Notes for 201](https://codrcam.github.io/reading-note/reading201)
+* [Reading Notes for 102](/Reading102/reading102.md)
+* [Reading Notes for 201](/Reading201/reading201.md)
 
 [My GitHub Profile](https://github.com/CodrCam)
