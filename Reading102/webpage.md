@@ -40,4 +40,6 @@ HTML (Hyper Text Markup Language)  is the code that we use as developers to stru
 
 [Mozilla Dev Tools](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
+[Back to 102 Notes Page](https://codrcam.github.io/reading-note/reading102.html)
+
 [Back to Main Page](https://codrcam.github.io/reading-note/)

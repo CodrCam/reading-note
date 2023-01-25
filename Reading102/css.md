@@ -51,4 +51,6 @@ Another way is directly in the HTML doc:
 - External and internal style sheets (in the head section)
 - Browser default
 
+[Back to 102 Notes Page](https://codrcam.github.io/reading-note/reading102.html)
+
 [Back to Main Page](https://codrcam.github.io/reading-note/)

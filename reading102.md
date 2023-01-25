@@ -20,4 +20,6 @@
 * Programming in JavaScript
 * For and While loops
 
+[Back to 102 Notes Page](https://codrcam.github.io/reading-note/reading102.html)
+
 [Back to Main Page](https://codrcam.github.io/reading-note/)

@@ -24,4 +24,6 @@ Linux is primarily used by servers and programers as it allows for simplified sc
 
 Another one of the functions of the terminal is to navigate the file system within the computer. As everything can be recognized as some form of a file it give you a lot of information. Plus the ability to control the automated functions of your computer.
 
+[Back to 102 Notes Page](https://codrcam.github.io/reading-note/reading102.html)
+
 [Back to Main Page](https://codrcam.github.io/reading-note/)

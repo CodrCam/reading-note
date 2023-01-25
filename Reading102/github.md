@@ -39,4 +39,6 @@ Follow the platform-specific guides below:
 
 - [Windows](https://code.visualstudio.com/docs/setup/windows)
 
+[Back to 102 Notes Page](https://codrcam.github.io/reading-note/reading102.html)
+
 [Back to Main Page](https://codrcam.github.io/reading-note/)
