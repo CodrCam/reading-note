@@ -28,17 +28,29 @@ CSS is another language of the computers made by man. It’s helpful when used i
 
 #### A way to connect CSS is from another file, that you link the file in the head:
 
-![](/cssHead.png)
+> head
+>
+> link rel="stylesheet" href="mystyle.css"
+>
+> /head
+> body
+>
+> h1 This is a heading /h1
+>
+> This is a paragraph.
 
 Another way is directly in the HTML doc:
 
-![](/htmlCSS.png)
+> h1 style="color:blue;text-align:center;">This is >heading /h1
+>
+>p style="color:red;">This is a paragraph. /p
 
 ### Cascading Order
  
 #### Priority:
-Inline style (inside an HTML element)
-External and internal style sheets (in the head section)
-Browser default
+
+- Inline style (inside an HTML element)
+- External and internal style sheets (in the head section)
+- Browser default
 
 [Back to Main Page](https://codrcam.github.io/reading-note/)
