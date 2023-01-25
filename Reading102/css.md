@@ -5,9 +5,6 @@
 - Color
 - Spacing
 - Sizing
-- Atom (the best one)
-- Brackets
-- Sublime Text 3 (costs $70)
 
 CSS is another language of the computers made by man. It’s helpful when used in tandem with the HTML structure. Helping to create a webpage you can be proud of when you view it. All consisting of style and color that help to bring the page to life.You can modify the sizing of text, pictures, and other elements. Along with create a preferred layout with elements like padding for spatial awareness. 
 
@@ -33,6 +30,7 @@ CSS is another language of the computers made by man. It’s helpful when used i
 > link rel="stylesheet" href="mystyle.css"
 >
 > /head
+>
 > body
 >
 > h1 This is a heading /h1
