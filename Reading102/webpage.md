@@ -1,4 +1,4 @@
-# Building a Webpaage
+# Building a Webpage
 
 ## Wireframing
 

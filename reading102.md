@@ -2,7 +2,7 @@
 
 ## Day 1
 
-* [Markdown](https://codrcam.github.io/reading-note/Reading102/webpage)
+* [Markdown](https://codrcam.github.io/reading-note/Reading102/markdown)
 * [Computer Setup](https://codrcam.github.io/reading-note/Reading102/setup)
 
 ## Day 2
