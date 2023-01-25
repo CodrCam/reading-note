@@ -23,3 +23,5 @@ manager, a compiler, and a debugger. Which can help to minimize the time spent o
 Linux is primarily used by servers and programers as it allows for simplified scripts to streamline some process. You can access these shortcuts through the terminal. Which is available on both Mac computers and the most widely used Linux OS Ubuntu. These scripts are usually written in a shell or .sh to access the BASH language. 
 
 Another one of the functions of the terminal is to navigate the file system within the computer. As everything can be recognized as some form of a file it give you a lot of information. Plus the ability to control the automated functions of your computer. 
+
+[Back to Main Page](https://codrcam.github.io/reading-note/)

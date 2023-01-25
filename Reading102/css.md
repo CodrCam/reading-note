@@ -40,3 +40,5 @@ Another way is directly in the HTML doc:
 Inline style (inside an HTML element)
 External and internal style sheets (in the head section)
 Browser default
+
+[Back to Main Page](https://codrcam.github.io/reading-note/)

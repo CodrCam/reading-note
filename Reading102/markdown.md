@@ -12,3 +12,5 @@ Along with this page I've also created a read me for the class repo I've created
 <br>
 <br>
 [Class Intro Page](https://github.com/CodrCam/-seattle-code-102d49)
+
+[Back to Main Page](https://codrcam.github.io/reading-note/)

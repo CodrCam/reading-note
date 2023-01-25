@@ -38,3 +38,5 @@ Follow the platform-specific guides below:
 - [Linux](https://code.visualstudio.com/docs/setup/linux)
 
 - [Windows](https://code.visualstudio.com/docs/setup/windows)
+
+[Back to Main Page](https://codrcam.github.io/reading-note/)

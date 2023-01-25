@@ -39,3 +39,5 @@ Sketch > Wireframe > Visual > Code
 HTML (Hyper Text Markup Language)  is the code that we use as developers to structure the webpages visited each day. The structure is defined in way that helps web browsers interpret the pages in an expected way. Using tags and other markup (symbols like ! - *)
 
 [Mozilla Dev Tools](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+[Back to Main Page](https://codrcam.github.io/reading-note/)
