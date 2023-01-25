@@ -13,7 +13,7 @@
 ## Day 3
 
 * [Itergrarte HTML and CSS](https://codrcam.github.io/reading-note/Reading102/css)
-* Dynamic Input with JavaScript
+* [Dynamic Input with JavaScript](https://codrcam.github.io/reading-note/Reading102/javascript)
 
 ## Day 4
 
