@@ -12,7 +12,7 @@
 
 ## Day 3
 
-* Itergrarte HTML and CSS
+* [Itergrarte HTML and CSS](https://codrcam.github.io/reading-note/Reading102/css)
 * Dynamic Input with JavaScript
 
 ## Day 4
