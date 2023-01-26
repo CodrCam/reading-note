@@ -18,6 +18,8 @@
 ## Day 4
 
 * [Programming in JavaScript](https://codrcam.github.io/reading-note/Reading102/jsprogram)
-* For and While loops
+
+* [For and While loops](https://codrcam.github.io/reading-note/Reading102/ops)
+
 
 [Back to Main Page](https://codrcam.github.io/reading-note/)
