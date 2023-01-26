@@ -36,3 +36,7 @@ Comparison operators are utilized in a way to find true or false. This can be us
 > i++;
 >
 > }`
+
+[Back to 102 Notes Page](https://codrcam.github.io/reading-note/reading102.html)
+
+[Back to Main Page](https://codrcam.github.io/reading-note/)
