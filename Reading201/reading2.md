@@ -89,8 +89,8 @@ You could find all the odd numbers in a designated set of numbers.
     - Not
     - Greater/Less 
 
-- What is the difference between the logical operator && and ||?
+- What is the difference between the logical operator && and `||`?
 
     - When you use && all booleans must be tru for it to be true. 
 
-    - If you use || only one boolean must be true for the logic to prove true. 
+    - If you use `||` only one boolean must be true for the logic to prove true. 
