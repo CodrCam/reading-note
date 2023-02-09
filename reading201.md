@@ -14,7 +14,7 @@
 
 ## Day 4
 
-* [Future Link](https://codrcam.github.io/reading-note)
+* [Reading 4](/Reading201/reading4.md)
 
 ## Day 5
 
