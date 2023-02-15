@@ -26,11 +26,11 @@
 
 ## Day 7
 
-* [Reading 7](https://codrcam.github.io/reading-note)
+* [Reading 7](/Reading201/reading7.md)
 
 ## Day 8
 
-* [Future Link](https://codrcam.github.io/reading-note)
+* [Reading 8](/Reading201/reading8.md)
 
 ## Day 9
 
