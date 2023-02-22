@@ -46,6 +46,10 @@
 
 ## Day 12
 
-* [Future Link](https://codrcam.github.io/reading-note)
+* [Reading 12](/Reading201/reading12.md)
+
+## Day 13
+
+* [Reading 13](/Reading201/reading13.md)
 
 [Back to Main Page](https://codrcam.github.io/reading-note/)
