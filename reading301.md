@@ -2,7 +2,8 @@
 
 ## Day 1
 
-* [Future Link](https://codrcam.github.io/reading-note)
+* [Reading 1](/Reading301/reading1.md)
+
 * [Future Link](https://codrcam.github.io/reading-note)
 
 ## Day 2
